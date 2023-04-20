@@ -13,7 +13,7 @@ import static data.DataGenerator.Registration.getUser;
 import static data.DataGenerator.getRandomLogin;
 import static data.DataGenerator.getRandomPassword;
 
-class AuthTest {
+class DeliveryTest {
 
     @BeforeEach
     void setup() {

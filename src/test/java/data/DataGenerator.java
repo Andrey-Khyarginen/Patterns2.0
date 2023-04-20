@@ -6,12 +6,10 @@ import io.restassured.filter.log.LogDetail;
 import io.restassured.http.ContentType;
 import io.restassured.specification.RequestSpecification;
 import lombok.Value;
-import lombok.val;
 
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
+
 import java.util.Locale;
-import java.util.Random;
+
 
 import static io.restassured.RestAssured.given;
 
